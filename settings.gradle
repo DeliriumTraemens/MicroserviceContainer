@@ -2,4 +2,5 @@ rootProject.name = 'MicroserviceContainer'
 
 //Для включения в общий Build - синий квадратик означает модуль
 includeBuild 'eurekaserver'
+includeBuild 'eurekaclient'
 
