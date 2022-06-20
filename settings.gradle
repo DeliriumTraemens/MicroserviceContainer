@@ -4,4 +4,5 @@ rootProject.name = 'MicroserviceContainer'
 includeBuild 'eurekaserver'
 includeBuild 'eurekaclient'
 includeBuild 'api-gateway'
+includeBuild 'eureka-client-2'
 
